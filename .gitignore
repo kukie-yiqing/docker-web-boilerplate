@@ -8,7 +8,6 @@
 *.swp
 
 # Clash config files containing credentials
-*.yaml
 *.yml
 clash-config.yaml
 clash_config.yaml
